@@ -219,9 +219,8 @@ body {
           align-items: center;
 }
 
- .actions-header__region{
-	z-index: 10;
-  background: url("../img/png/globe_reg.png") 0 1px no-repeat; }
+.actions-header__region{
+  background: url("../img.webp/globe_reg.webp") 0 1px no-repeat; }
 
 .actions-header__region {
   line-height: 21px;
