@@ -220,6 +220,7 @@ body {
 }
 
 .no-webp .actions-header__region{
+	z-index: 10;
   background: url("../img/png/globe_reg.png") 0 1px no-repeat; }
 
 .actions-header__region {
