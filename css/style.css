@@ -221,7 +221,7 @@ body {
 
 .no-webp .actions-header__region{
 	z-index: 10;
-  background: url("../img/png/globe_reg.png") 0 1px no-repeat; }
+  background: url("../img.webp/globe_reg.webp") 0 1px no-repeat; }
 
 .actions-header__region {
   line-height: 21px;
@@ -279,6 +279,7 @@ body {
 }
 
 .no-webp .user-header__link_1{
+	z-index: 10;
   background: url("../img/png/globe_2.png") 2px center no-repeat; }
 
 .no-webp .user-header__link_2{
