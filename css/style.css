@@ -219,9 +219,9 @@ body {
           align-items: center;
 }
 
-.no-webp .actions-header__region{
+ .actions-header__region{
 	z-index: 10;
-  background: url("../img.webp/globe_reg.webp") 0 1px no-repeat; }
+  background: url("../img/png/globe_reg.png") 0 1px no-repeat; }
 
 .actions-header__region {
   line-height: 21px;
@@ -236,7 +236,7 @@ body {
   margin-left: 25px;
 }
 
-.no-webp .user-header__icon{
+.user-header__icon{
   background: url("../img/png/shape_top.png") 25px 25% no-repeat, url("../img/png/shape_bot.png") 25px 75% no-repeat; }
 
 .user-header__icon {
@@ -278,8 +278,7 @@ body {
   padding-left: 25px;
 }
 
-.no-webp .user-header__link_1{
-	z-index: 10;
+.user-header__link_1{
   background: url("../img/png/globe_2.png") 2px center no-repeat; }
 
 .no-webp .user-header__link_2{
