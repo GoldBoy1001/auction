@@ -15,7 +15,7 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"homepage": "https://goldboy1001.github.io/luxtrader/",
+	"homepage": "https://goldboy1001.github.io/auction/",
 	"devDependencies": {
 		"browser-sync": "^2.27.11",
 		"del": "^6.1.1",
