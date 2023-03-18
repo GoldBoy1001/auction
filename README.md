@@ -2,4 +2,4 @@
 
 ### Адаптивная вёрстка
 
-[Skillbox Media](https://goldboy1001.github.io/luxtrader/)
+[Github-Pages](https://goldboy1001.github.io/luxtrader/)
