@@ -220,7 +220,7 @@ body {
 }
 
 .no-webp .actions-header__region{
-  background: url("../img/png/globe_reg.png") 0 1px no-repeat; }
+  background: url("../img/globe_reg.png") 0 1px no-repeat; }
 
 .actions-header__region {
   line-height: 21px;
@@ -236,7 +236,7 @@ body {
 }
 
 .no-webp .user-header__icon{
-  background: url("../img/png/shape_top.png") 25px 25% no-repeat, url("../img/png/shape_bot.png") 25px 75% no-repeat; }
+  background: url("../img/shape_top.png") 25px 25% no-repeat, url("../img/shape_bot.png") 25px 75% no-repeat; }
 
 .user-header__icon {
   padding-right: 20px;
@@ -278,16 +278,16 @@ body {
 }
 
 .no-webp .user-header__link_1{
-  background: url("../img/png/globe_2.png") 2px center no-repeat; }
+  background: url("../img/globe_2.png") 2px center no-repeat; }
 
 .no-webp .user-header__link_2{
-  background: url("../img/png/key.png") -20px center no-repeat; }
+  background: url("../img/key.png") -20px center no-repeat; }
 
 .no-webp .user-header__link_3{
-  background: url("../img/png/palm_3680.png") 4px center no-repeat; }
+  background: url("../img/palm_3680.png") 4px center no-repeat; }
 
 .no-webp .user-header__link_4{
-  background: url("../img/png/hammer_3682.png") left center no-repeat; }
+  background: url("../img/hammer_3682.png") left center no-repeat; }
 
 .page {
   padding-top: 75px;
@@ -373,7 +373,7 @@ body {
   -o-border-image: -o-linear-gradient(bottom, #bb9c66, #bb9c66) 1;
      border-image: -webkit-gradient(linear, left bottom, left top, from(#bb9c66), to(#bb9c66)) 1;
      border-image: linear-gradient(to top, #bb9c66, #bb9c66) 1;
-  background-color: hsla(18, 8%, 37%, 0.1);
+  background-color: hsla(18deg, 8%, 37%, 0.1);
 }
 
 .title {
@@ -513,7 +513,7 @@ body {
 }
 
 .no-webp .control-slider-lots__arrow_left{
-  background: url("../img/png/lots_arrow_right.png") 0 0 no-repeat, url("../img/png/ellipse_lots.png") 100% 50% no-repeat; }
+  background: url("../img/lots_arrow_right.png") 0 0 no-repeat, url("../img/ellipse_lots.png") 100% 50% no-repeat; }
 
 .control-slider-lots__arrow_left {
   cursor: pointer;
@@ -523,7 +523,7 @@ body {
 }
 
 .no-webp .control-slider-lots__arrow_right{
-  background: url("../img/png/lots_arrow_right.png") 0 0 no-repeat, url("../img/png/ellipse_lots.png") 100% 50% no-repeat; }
+  background: url("../img/lots_arrow_right.png") 0 0 no-repeat, url("../img/ellipse_lots.png") 100% 50% no-repeat; }
 
 .control-slider-lots__arrow_right {
   padding-left: 20px;
@@ -536,7 +536,7 @@ body {
 }
 
 .no-webp .control-slider-lots__link{
-  background: url("../img/png/ellipse_center.png") 50% no-repeat; }
+  background: url("../img/ellipse_center.png") 50% no-repeat; }
 
 .control-slider-lots__link {
   margin: 0 30px;
@@ -1147,7 +1147,7 @@ body {
 }
 
 .no-webp .control-quotes__image{
-  background: url("../img/png/quotes/bg.png") 50% no-repeat, url("../img/png/quotes/ellipse_25_4429.png") 50% no-repeat; }
+  background: url("../img/quotes-bg.png") 50% no-repeat, url("../img/quotes-ellipse.png") 50% no-repeat; }
 
 .control-quotes__image {
   position: relative;
@@ -1262,7 +1262,7 @@ body {
 }
 
 .no-webp .news-articles__title{
-  background: url("../img/png/article/news.png") 0 50% no-repeat; }
+  background: url("../img/artycle-news.png") 0 50% no-repeat; }
 
 .news-articles__title {
   padding-left: 40px;
@@ -1278,7 +1278,7 @@ body {
 }
 
 .no-webp .events-articles__title{
-  background: url("../img/png/article/events.png") 0 0 no-repeat; }
+  background: url("../img/artycle-events.png") 0 0 no-repeat; }
 
 .events-articles__title {
   padding-left: 40px;
@@ -1289,7 +1289,7 @@ body {
 }
 
 .no-webp .subscribe-articles__title{
-  background: url("../img/png/article/subscribe.png") 0 0 no-repeat; }
+  background: url("../img/artycle-subscribe.png") 0 0 no-repeat; }
 
 .subscribe-articles__title {
   padding-left: 40px;
@@ -1369,7 +1369,7 @@ body {
 }
 
 .no-webp .subscribe-articles__btn{
-  background: url("../img/png/article/arrow.png") 75% 40% no-repeat; }
+  background: url("../img/artycle-arrow.png") 75% 40% no-repeat; }
 
 .subscribe-articles__btn {
   display: -webkit-box;
@@ -1489,7 +1489,7 @@ body {
 }
 
 .no-webp .footer__connection-text{
-  background: url("../img/png/shape.png") 0 50% no-repeat; }
+  background: url("../img/shape.png") 0 50% no-repeat; }
 
 .footer__connection-text {
   letter-spacing: 1px;
@@ -1838,7 +1838,7 @@ body {
   }
 
   .no-webp .actions-header__region{
-    background: url("../img/png/globe_reg.png") 0 2px no-repeat; }
+    background: url("../img/globe_reg.png") 0 2px no-repeat; }
 
   .actions-header__region {
     padding-left: 35px;
@@ -1935,14 +1935,14 @@ body {
 
 @media (max-width: 460px) {
   .no-webp .control-slider-lots__arrow_right{
-    background: url("../img/png/lots_arrow_right.png") 0 0 no-repeat; }
+    background: url("../img/lots_arrow_right.png") 0 0 no-repeat; }
   .control-slider-lots__arrow_right {
     max-width: 90px;
     padding-left: 10px;
   }
 
   .no-webp .control-slider-lots__arrow_left{
-    background: url("../img/png/lots_arrow_right.png") 0 0 no-repeat; }
+    background: url("../img/lots_arrow_right.png") 0 0 no-repeat; }
 
   .control-slider-lots__arrow_left {
     max-width: 90px;
@@ -1967,51 +1967,51 @@ body {
   }
 }
 
-.webp .actions-header__region{ background: url(../img/png/globe_reg.webp) 0 1px no-repeat; }
+.webp .actions-header__region{ background: url(../img/globe_reg.webp) 0 1px no-repeat; }
 
-.webp .user-header__icon{ background: url(../img/png/shape_top.webp) 25px 25% no-repeat, url(../img/png/shape_bot.webp) 25px 75% no-repeat; }
+.webp .user-header__icon{ background: url(../img/shape_top.webp) 25px 25% no-repeat, url(../img/shape_bot.webp) 25px 75% no-repeat; }
 
-.webp .user-header__link_1{ background: url(../img/png/globe_2.webp) 2px center no-repeat; }
+.webp .user-header__link_1{ background: url(../img/globe_2.webp) 2px center no-repeat; }
 
-.webp .user-header__link_2{ background: url(../img/png/key.webp) -20px center no-repeat; }
+.webp .user-header__link_2{ background: url(../img/key.webp) -20px center no-repeat; }
 
-.webp .user-header__link_3{ background: url(../img/png/palm_3680.webp) 4px center no-repeat; }
+.webp .user-header__link_3{ background: url(../img/palm_3680.webp) 4px center no-repeat; }
 
-.webp .user-header__link_4{ background: url(../img/png/hammer_3682.webp) left center no-repeat; }
+.webp .user-header__link_4{ background: url(../img/hammer_3682.webp) left center no-repeat; }
 
-.webp .control-slider-lots__arrow_left{ background: url(../img/png/lots_arrow_right.webp) 0 0 no-repeat, url(../img/png/ellipse_lots.webp) 100% 50% no-repeat; }
+.webp .control-slider-lots__arrow_left{ background: url(../img/lots_arrow_right.webp) 0 0 no-repeat, url(../img/ellipse_lots.webp) 100% 50% no-repeat; }
 
-.webp .control-slider-lots__arrow_right{ background: url(../img/png/lots_arrow_right.webp) 0 0 no-repeat, url(../img/png/ellipse_lots.webp) 100% 50% no-repeat; }
+.webp .control-slider-lots__arrow_right{ background: url(../img/lots_arrow_right.webp) 0 0 no-repeat, url(../img/ellipse_lots.webp) 100% 50% no-repeat; }
 
-.webp .control-slider-lots__link{ background: url(../img/png/ellipse_center.webp) 50% no-repeat; }
+.webp .control-slider-lots__link{ background: url(../img/ellipse_center.webp) 50% no-repeat; }
 
 .webp .image-lot__time{ background: url(../img/png/pesol.webp) 50% 20% no-repeat, url(../img/png/romb_lots.webp) 0 0 no-repeat; }
 
 .webp .bid-lot__sum{ background: url(../img/png/lot_romb.webp) 50% 0 no-repeat; }
 
-.webp .control-quotes__image{ background: url(../img/png/quotes/bg.webp) 50% no-repeat, url(../img/png/quotes/ellipse_25_4429.webp) 50% no-repeat; }
+.webp .control-quotes__image{ background: url(../img/quotes-bg.webp) 50% no-repeat, url(../img/quotes-ellipse.webp) 50% no-repeat; }
 
-.webp .news-articles__title{ background: url(../img/png/article/news.webp) 0 50% no-repeat; }
+.webp .news-articles__title{ background: url(../img/artycle-news.webp) 0 50% no-repeat; }
 
-.webp .events-articles__title{ background: url(../img/png/article/events.webp) 0 0 no-repeat; }
+.webp .events-articles__title{ background: url(../img/artycle-events.webp) 0 0 no-repeat; }
 
-.webp .subscribe-articles__title{ background: url(../img/png/article/subscribe.webp) 0 0 no-repeat; }
+.webp .subscribe-articles__title{ background: url(../img/artycle-subscribe.webp) 0 0 no-repeat; }
 
-.webp .subscribe-articles__btn{ background: url(../img/png/article/arrow.webp) 75% 40% no-repeat; }
+.webp .subscribe-articles__btn{ background: url(../img/artycle-arrow.webp) 75% 40% no-repeat; }
 
-.webp .footer__connection-text{ background: url(../img/png/shape.webp) 0 50% no-repeat; }
+.webp .footer__connection-text{ background: url(../img/shape.webp) 0 50% no-repeat; }
 
 @media (max-width: 767px){
 
-  .webp .actions-header__region{ background: url(../img/png/globe_reg.webp) 0 2px no-repeat; }
+  .webp .actions-header__region{ background: url(../img/globe_reg.webp) 0 2px no-repeat; }
 }
 
 @media (max-width: 460px){
 
-  .webp .control-slider-lots__arrow_right{ background: url(../img/png/lots_arrow_right.webp) 0 0 no-repeat; }
+  .webp .control-slider-lots__arrow_right{ background: url(../img/lots_arrow_right.webp) 0 0 no-repeat; }
 }
 
 @media (max-width: 460px){
 
-  .webp .control-slider-lots__arrow_left{ background: url(../img/png/lots_arrow_right.webp) 0 0 no-repeat; }
+  .webp .control-slider-lots__arrow_left{ background: url(../img/lots_arrow_right.webp) 0 0 no-repeat; }
 }
