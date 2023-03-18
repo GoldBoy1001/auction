@@ -218,7 +218,7 @@ overflow-x: hidden;
 		padding-left: 35px;
 		min-width: 18px;
 		min-height: 20px;
-		background: url('@img/png/globe_reg.png') 0 1px no-repeat;
+		background: url('@img/globe_reg.png') 0 1px no-repeat;
 		@media (min-width: 992px) {
 			
 			&:hover {
@@ -232,7 +232,7 @@ overflow-x: hidden;
 			padding-left: 0;
 		}
 		@media (max-width: 767px) {
-			background: url('@img/png/globe_reg.png')0 2px no-repeat;
+			background: url('@img/globe_reg.png')0 2px no-repeat;
 			
 			span{
 				display:inline-block;
@@ -251,7 +251,7 @@ overflow-x: hidden;
 	&__icon {
 		padding-right: 20px;
 		cursor: pointer;
-		background: url('@img/png/shape_top.png') 25px 25%  no-repeat, url('@img/png/shape_bot.png') 25px 75% no-repeat;
+		background: url('@img/shape_top.png') 25px 25%  no-repeat, url('@img/shape_bot.png') 25px 75% no-repeat;
 	}
 
 	&__menu {
@@ -287,19 +287,19 @@ overflow-x: hidden;
 			}
 		}
 		&_1 {
-			background: url('@img/png/globe_2.png') 2px center no-repeat;
+			background: url('@img/globe_2.png') 2px center no-repeat;
 		}
 
 		&_2 {
-			background: url('@img/png/key.png') -20px center no-repeat;
+			background: url('@img/key.png') -20px center no-repeat;
 		}
 
 		&_3 {
-			background: url('@img/png/palm_3680.png') 4px center no-repeat;
+			background: url('@img/palm_3680.png') 4px center no-repeat;
 		}
 
 		&_4 {
-			background: url('@img/png/hammer_3682.png') left center no-repeat;
+			background: url('@img/hammer_3682.png') left center no-repeat;
 		}
 	}
 }
@@ -532,7 +532,7 @@ margin-bottom: 3.75rem;
 		padding-right: 20px;
 		height: 35px;
 		width: 128px;
-		background: url('@img/png/lots_arrow_right.png') 0 0 no-repeat,  url('@img/png/ellipse_lots.png') 100% 50% no-repeat;
+		background: url('@img/lots_arrow_right.png') 0 0 no-repeat,  url('@img/ellipse_lots.png') 100% 50% no-repeat;
 	}
 	
 	&__arrow_right {
@@ -541,13 +541,13 @@ margin-bottom: 3.75rem;
 		height: 35px;
 		width: 128px;
 		transform: rotate(180deg);
-		background: url('@img/png/lots_arrow_right.png') 0 0 no-repeat,  url('@img/png/ellipse_lots.png') 100% 50% no-repeat;
+		background: url('@img/lots_arrow_right.png') 0 0 no-repeat,  url('@img/ellipse_lots.png') 100% 50% no-repeat;
 	}
 	&__arrow_right{
 		@media (max-width: 460px) {
 			max-width: 90px;
 			padding-left: 10px;
-			background: url('@img/png/lots_arrow_right.png') 0 0 no-repeat;
+			background: url('@img/lots_arrow_right.png') 0 0 no-repeat;
 		}
 	}
 	&__arrow_right{
@@ -558,7 +558,7 @@ margin-bottom: 3.75rem;
 	&__arrow_left {
 		@media (max-width: 460px) {
 			max-width: 90px;
-			background: url('@img/png/lots_arrow_right.png') 0 0 no-repeat;
+			background: url('@img/lots_arrow_right.png') 0 0 no-repeat;
 			padding-left: 10px;
 		}
 	}
@@ -579,7 +579,7 @@ margin-bottom: 3.75rem;
 		line-height: 25px;
 		font-weight: 500;
 		text-transform: uppercase;
-		background: url('@img/png/ellipse_center.png') 50% no-repeat;	
+		background: url('@img/ellipse_center.png') 50% no-repeat;	
 	}
 }
 
@@ -1218,12 +1218,7 @@ color: #333333;
 	&__slide {
 	}
 }
-.swiper {
-}
-.swiper-wrapper {
-}
-.swiper-slide {
-}
+
 .quote {
 	display: flex;
 	justify-content: center;
@@ -1280,7 +1275,7 @@ margin-bottom: 30px;
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		background: url('@img/png/quotes/bg.png') 50% no-repeat, url('@img/png/quotes/ellipse_25_4429.png') 50% no-repeat;
+		background: url('@img/quotes-bg.png') 50% no-repeat, url('@img/quotes-ellipse.png') 50% no-repeat;
 		
 		&::before,
 		&::after{
@@ -1391,7 +1386,7 @@ letter-spacing: 1px;
 
 	&__title {
 		padding-left: 40px;
-		background: url('@img/png/article/news.png') 0 50% no-repeat;
+		background: url('@img/artycle-news.png') 0 50% no-repeat;
 	}
 
 	&__column + &__column{
@@ -1413,7 +1408,7 @@ letter-spacing: 1px;
 
 	&__title {
 		padding-left: 40px;
-		background: url('@img/png/article/events.png') 0 0 no-repeat;
+		background: url('@img/artycle-events.png') 0 0 no-repeat;
 	}
 
 	&__column + &__column{
@@ -1430,7 +1425,7 @@ letter-spacing: 1px;
 
 	&__title {
 		padding-left: 40px;
-		background: url('@img/png/article/subscribe.png') 0 0 no-repeat;
+		background: url('@img/artycle-subscribe.png') 0 0 no-repeat;
 	}
 
 	&__column {
@@ -1480,7 +1475,7 @@ text-transform: uppercase;
 letter-spacing: 0.1em;
 color: #1c242a;
 padding-right: 50px;
-background: url('@img/png/article/arrow.png') 75% 40% no-repeat;
+background: url('@img/artycle-arrow.png') 75% 40% no-repeat;
 		&::before{
 			content: '';
 			margin-right: 10px;
@@ -1594,7 +1589,7 @@ span{
 		letter-spacing: 1px;
 		color: #bb9c66;
 		padding-left: 15px;
-		background: url('@img/png/shape.png') 0 50% no-repeat;
+		background: url('@img/shape.png') 0 50% no-repeat;
 	}
 }
 

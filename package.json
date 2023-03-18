@@ -5,17 +5,17 @@
 	"main": "gulpfile.js",
 	"type": "module",
 	"scripts": {
+		"deployGH": "gh-pages -d dist",
 		"dev": "gulp",
 		"build": "gulp build --build",
 		"zip": "gulp deployZip --build",
 		"deploy": "gulp deployFTP --build",
-		"deployGH": "gh-pages -d dist",
 		"svgSprive": "gulp svgSprive"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"homepage": "https://GoldBoy1001.github.io/auction",
+	"homepage": "https://goldboy1001.github.io/luxtrader/",
 	"devDependencies": {
 		"browser-sync": "^2.27.11",
 		"del": "^6.1.1",
